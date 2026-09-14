@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome!
 ---
+#MY HONEST OPINION
+CSS IS HARD!!!!!
